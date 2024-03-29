@@ -3,8 +3,9 @@ using namespace std;
 int main()
 {
     cout << "Kich thuoc cua unsigned char la: " << sizeof(unsigned char) << endl;
-    cout << "*********************************"
+    cout << "*********************************" << endl;
     cout << "Kich thuoc cua char la: " << sizeof(char) << endl;
+    cout << "*********************************"<< endl;
     cout << "Kich thuoc cua unsigned int la: " << sizeof(unsigned int) << endl;
     cout << "Kich thuoc cua short int la: " << sizeof(short int) << endl;
     cout << "Kich thuoc cua int la: " << sizeof(int) << endl;
