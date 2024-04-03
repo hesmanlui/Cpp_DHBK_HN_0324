@@ -15,6 +15,7 @@ int main()
     cout << "Kich thuoc cua unsigned long la: " << sizeof(unsigned long) << endl;
     cout << "*********************************"<< endl;
     cout << "Kich thuoc cua long la: " << sizeof(long) << endl;
+    cout << "*********************************"<< endl;
     cout << "Kich thuoc cua float la: " << sizeof(float) << endl;
     cout << "Kich thuoc cua double la: " << sizeof(double) << endl;
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
