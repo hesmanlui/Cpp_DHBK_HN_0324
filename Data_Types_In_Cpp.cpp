@@ -23,5 +23,7 @@ int main()
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
     cout << "End -----------------------------" << endl;
     cout << "End -----------------------------" << endl;
+    cout << "End -----------------------------" << endl;
+
     return 0;
 }
