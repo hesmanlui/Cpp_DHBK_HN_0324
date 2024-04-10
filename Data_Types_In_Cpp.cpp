@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     cout << "---------------------------------" << endl;
+    cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua unsigned char la: " << sizeof(unsigned char) << endl;
     cout << "*********************************" << endl;
     cout << "Kich thuoc cua char la: " << sizeof(char) << endl;
