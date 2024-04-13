@@ -9,6 +9,7 @@ int main()
     cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua char la: " << sizeof(char) << endl;
     cout << "*********************************"<< endl;
+    cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua unsigned int la: " << sizeof(unsigned int) << endl;
     cout << "*********************************"<< endl;
     cout << "Kich thuoc cua short int la: " << sizeof(short int) << endl;
