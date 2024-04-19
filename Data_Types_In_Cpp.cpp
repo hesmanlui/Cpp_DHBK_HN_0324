@@ -26,6 +26,7 @@ int main()
     cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua float la: " << sizeof(float) << endl;
     cout << "*********************************"<< endl;
+    cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua double la: " << sizeof(double) << endl;
     cout << "*********************************"<< endl;
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
