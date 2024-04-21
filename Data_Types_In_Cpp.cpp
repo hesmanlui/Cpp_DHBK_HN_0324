@@ -31,9 +31,10 @@ int main()
     cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
+    cout << "---------------------------------" << endl;
     cout << "End -----------------------------" << endl;
     cout << "End -----------------------------" << endl;
-    cout << "End -----------------------------" << endl;
+  
 
     return 0;
 }
