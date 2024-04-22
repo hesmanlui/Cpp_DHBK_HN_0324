@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    cout << "TRA VE KICH THUOC CUA CAC KIEU DU LIEU TRONG C++" << endl;
     cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua unsigned char la: " << sizeof(unsigned char) << endl;
     cout << "*********************************" << endl;
@@ -32,7 +33,7 @@ int main()
     cout << "---------------------------------" << endl;
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
     cout << "---------------------------------" << endl;
-    cout << "End -----------------------------" << endl;
+    cout << "---------------------------------" << endl;
     cout << "End -----------------------------" << endl;
   
 
