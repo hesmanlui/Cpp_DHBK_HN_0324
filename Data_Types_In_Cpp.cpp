@@ -5,6 +5,8 @@ int main()
     cout << "++++++++++++++++++++++++++++++++++++++++++++++++" << endl;
     cout << "TRA VE KICH THUOC CUA CAC KIEU DU LIEU TRONG C++" << endl;
     cout << "++++++++++++++++++++++++++++++++++++++++++++++++" << endl;
+    cout << "\\\\" << endl;
+    // Ghi chú:
     cout << "Kich thuoc cua unsigned char la: " << sizeof(unsigned char) << endl;
     cout << "*********************************" << endl;
     cout << "---------------------------------" << endl;
