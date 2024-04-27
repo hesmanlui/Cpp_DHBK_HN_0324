@@ -10,6 +10,8 @@ int main()
     cout << "Kich thuoc cua unsigned char la: " << sizeof(unsigned char) << endl;
     cout << "*********************************" << endl;
     cout << "---------------------------------" << endl;
+    cout << "\\\\" << endl;
+    // Ghi chú:
     cout << "Kich thuoc cua char la: " << sizeof(char) << endl;
     cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
