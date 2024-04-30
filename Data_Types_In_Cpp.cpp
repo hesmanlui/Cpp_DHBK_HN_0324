@@ -25,6 +25,8 @@ int main()
     cout << "Kich thuoc cua short int la: " << sizeof(short int) << endl;
     cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
+    cout << "\\\\" << endl;
+    // Ghi chú:
     cout << "Kich thuoc cua int la: " << sizeof(int) << endl;
     cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
