@@ -45,6 +45,8 @@ int main()
     cout << "Kich thuoc cua float la: " << sizeof(float) << endl;
     cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
+    cout << "\\\\" << endl;
+    // Ghi chú:
     cout << "Kich thuoc cua double la: " << sizeof(double) << endl;
     cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
