@@ -50,6 +50,8 @@ int main()
     cout << "Kich thuoc cua double la: " << sizeof(double) << endl;
     cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
+    cout << "\\\\" << endl;
+    // Ghi chú:
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
     cout << "---------------------------------" << endl;
     cout << "End -----------------------------" << endl;
