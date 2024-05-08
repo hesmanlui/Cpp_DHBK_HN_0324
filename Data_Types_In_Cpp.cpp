@@ -54,6 +54,8 @@ int main()
     // Ghi chú:
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
     cout << "---------------------------------" << endl;
+    cout << "---------------------------------" << endl;
+    cout << "\\\\" << endl;
     cout << "End -----------------------------" << endl;
   
 
