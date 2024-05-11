@@ -53,6 +53,7 @@ int main()
     cout << "\\\\" << endl;
     // Ghi chú 10:
     cout << "Kich thuoc cua long double la: "<< sizeof(long double) << endl;
+    cout << "*********************************"<< endl;
     cout << "---------------------------------" << endl;
     cout << "\\\\" << endl;
     cout << "End -----------------------------" << endl;
